@@ -23,13 +23,13 @@ enum GamerBitPin {
     //% block="Y button"
     P2 = DAL.MICROBIT_ID_IO_P2,
     //% block="D-PAD up"
-    P8 = DAL.MICROBIT_ID_IO_P8,
+    P8 = DAL.MICROBIT_ID_IO_P15,
     //% block="D-PAD down"
     P13 = DAL.MICROBIT_ID_IO_P13,
     //% block="D-PAD left"
-    P14 = DAL.MICROBIT_ID_IO_P14,
+    P14 = DAL.MICROBIT_ID_IO_P16,
     //% block="D-PAD right"
-    P15 = DAL.MICROBIT_ID_IO_P15,
+    P15 = DAL.MICROBIT_ID_IO_P14,
 }
 
 /**
